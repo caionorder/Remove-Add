@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Remove Add 
-Plugin URI: http://wordpress.org/plugins/hello-dolly/
+Plugin URI: https://github.com/caionorder/Remove-Add
 Description: This plugin removes the add button again within the web page in the post.
 Author: Caio Norder
 Version: 1.0
